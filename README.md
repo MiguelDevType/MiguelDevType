@@ -77,7 +77,7 @@ Acredito que a melhor maneira de evoluir como desenvolvedor é construir, testar
 ### 📫 Vamos nos conectar?
 
 - 💼 LinkedIn: [Miguel Lucena Barros](https://www.linkedin.com/in/miguel-lucena-barros-a184413a6/)
-- 🐙 GitHub: [Meus projetos](https://github.com/SEU_USUARIO)
+- 🐙 GitHub: [MiguelDevType](https://github.com/MiguelDevType)
 
 ---
 
